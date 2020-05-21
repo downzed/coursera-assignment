@@ -23,4 +23,3 @@ function guess {
 guess
 
 echo "Congratulations, You are correct! $PWD has $filesNumber files!"
-exit 0
